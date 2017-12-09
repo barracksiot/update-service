@@ -1,0 +1,11 @@
+{
+  "userId": "aUserId",
+  "name": "a name",
+  "description": "a multiline\ndescription",
+  "packageId": "aPackageId",
+  "segmentId": "aSegmentId",
+  "additionalProperties": {
+    "key": "value"
+  },
+  "status": "draft"
+}
